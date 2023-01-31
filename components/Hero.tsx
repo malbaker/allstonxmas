@@ -32,17 +32,17 @@ export default function Hero() {
             </Text>
             
           </Heading>
-          <Text color={'gray.500'} fontSize={{ base: 'lg'}}>
+          <Text color={'gray.800'} fontSize={{ base: 'lg'}}>
             Our core problem is the accumulation of excess waste as a result of students moving in/out of their apartments and abandoning used furniture 
             on the street at start/end of semester.
           </Text>
 
-          <Text color={'gray.500'} fontSize={{ base: 'lg'}}>
+          <Text color={'gray.800'} fontSize={{ base: 'lg'}}>
           Our solution helps off-campus students who want to find / dispose of furniture by easily displaying nearby items, free of charge.
           </Text>
           
-          <Text color={'gray.500'} fontSize={{ base: 'lg'}}>
-          Interested? Let us know your thoughts in <Link href='https://forms.gle/cM6hNc2aLpWtxBya7' color={'blue.400'}>this survey. </Link>
+          <Text color={'gray.800'} fontSize={{ base: 'lg'}}>
+          Interested? Let us know your thoughts in <Link href='https://forms.gle/cM6hNc2aLpWtxBya7' color={'blue.500'}>this survey. </Link>
           </Text>
         </Stack>
       </Container>
