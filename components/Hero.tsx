@@ -5,6 +5,7 @@ import {
   Heading,
   Container,
   Text,
+  Link,
   Button,
   Stack,
   Icon,
@@ -48,7 +49,7 @@ export default function Hero() {
           </Text>
           
           <Text color={'gray.500'}>
-          Interested? Let us know your thoughts in <Button variant={'link'} colorScheme={'blue'} size={'sm'}> this survey. </Button>
+          Interested? Let us know your thoughts in <Link href='https://forms.gle/cM6hNc2aLpWtxBya7' color={'blue.400'}>this survey. </Link>
           </Text>
         </Stack>
       </Container>
